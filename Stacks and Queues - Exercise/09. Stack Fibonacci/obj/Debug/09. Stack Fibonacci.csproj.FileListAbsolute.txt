@@ -1,0 +1,5 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb

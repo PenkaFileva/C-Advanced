@@ -1,0 +1,5 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\bin\Debug\03.DecimalToBinaryConverter.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Lab\03.DecimalToBinaryConverter\obj\Debug\03.DecimalToBinaryConverter.pdb

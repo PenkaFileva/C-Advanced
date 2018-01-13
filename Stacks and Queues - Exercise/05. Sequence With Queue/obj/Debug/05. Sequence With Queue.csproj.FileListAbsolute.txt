@@ -1,0 +1,5 @@
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe.config
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.pdb
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.exe
+D:\C# Fundamentals\C# Advanced\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.pdb

@@ -1,0 +1,5 @@
+D:\C# Fundamentals\C# Advanced\Sets and Dictionaries - Lab\02SoftUniParty\bin\Debug\02SoftUniParty.exe.config
+D:\C# Fundamentals\C# Advanced\Sets and Dictionaries - Lab\02SoftUniParty\bin\Debug\02SoftUniParty.exe
+D:\C# Fundamentals\C# Advanced\Sets and Dictionaries - Lab\02SoftUniParty\bin\Debug\02SoftUniParty.pdb
+D:\C# Fundamentals\C# Advanced\Sets and Dictionaries - Lab\02SoftUniParty\obj\Debug\02SoftUniParty.exe
+D:\C# Fundamentals\C# Advanced\Sets and Dictionaries - Lab\02SoftUniParty\obj\Debug\02SoftUniParty.pdb
