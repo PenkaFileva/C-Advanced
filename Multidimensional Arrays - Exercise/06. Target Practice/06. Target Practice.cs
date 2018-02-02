@@ -29,7 +29,7 @@ namespace _06.Target_Practice
 
             for (int i = 0; i < matrix.Length; i++)
             {
-                Console.WriteLine(string.Join(" ", matrix[i]));
+                Console.WriteLine(string.Join("", matrix[i]));
             }
         }
 
