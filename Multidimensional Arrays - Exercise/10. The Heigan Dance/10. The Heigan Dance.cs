@@ -37,6 +37,7 @@ namespace _10.The_Heigan_Dance
                 if (hasCloud)
                 {
                     playerPoints -= CloudDamage;
+                    hasCloud = false;
                     isPlayerDead = playerPoints <= 0;
                 }
                 if (isHeiganDead || isPlayerDead)
