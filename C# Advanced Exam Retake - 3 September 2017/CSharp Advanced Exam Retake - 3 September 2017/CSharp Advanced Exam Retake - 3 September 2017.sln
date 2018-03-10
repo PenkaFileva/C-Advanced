@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Dangerous Floor", "01. Dangerous Floor\01. Dangerous Floor.csproj", "{D3FD5E22-A229-450C-ABFF-4FE2F9ACA72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Crypto Master", "02. Crypto Master\02. Crypto Master.csproj", "{8AB7B2AB-335E-4442-8558-5B4B825AB9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Greedy Times", "03. Greedy Times\03. Greedy Times.csproj", "{21204EA2-AFF7-4FA3-AEBC-AEED2491CB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FD5E22-A229-450C-ABFF-4FE2F9ACA72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FD5E22-A229-450C-ABFF-4FE2F9ACA72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FD5E22-A229-450C-ABFF-4FE2F9ACA72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FD5E22-A229-450C-ABFF-4FE2F9ACA72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB7B2AB-335E-4442-8558-5B4B825AB9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB7B2AB-335E-4442-8558-5B4B825AB9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB7B2AB-335E-4442-8558-5B4B825AB9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB7B2AB-335E-4442-8558-5B4B825AB9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21204EA2-AFF7-4FA3-AEBC-AEED2491CB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21204EA2-AFF7-4FA3-AEBC-AEED2491CB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21204EA2-AFF7-4FA3-AEBC-AEED2491CB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21204EA2-AFF7-4FA3-AEBC-AEED2491CB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
